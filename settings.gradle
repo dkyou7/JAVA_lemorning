@@ -1,0 +1,4 @@
+rootProject.name = 'lemorning'
+include 'lemorning-web'
+include 'lemorning-domain'
+
